@@ -10,12 +10,3 @@ public class HelloController {
         return "Olá, Spring Boot!";
     }
 }
-
-git config --global user.name "KauheSerpa"
-git config --global user.email "kakirtwions@gmail.com"
-git init
-git add
-git commit -m "Aula Java - Iniciando com Spring Boot"
-git remote add origin https://github.com/KauheSerpa/aula-java.git
-git branch -M main
-git push -u origin main
